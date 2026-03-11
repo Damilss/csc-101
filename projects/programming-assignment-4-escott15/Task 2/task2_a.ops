@@ -1,0 +1,3 @@
+percent:Income.Persons Below Poverty Level
+filter-lt:Education.High school or above:80
+percent:Education.High school or above

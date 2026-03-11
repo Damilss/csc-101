@@ -1,0 +1,4 @@
+population:Ethnicities.White Alone
+percent:Income.Persons Below poverty level
+filter-gt:Education.Bachleor's Degree or higher:40
+percent:Education.Bachleor's Degree or higher 
